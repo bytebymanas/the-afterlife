@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 610" width="1200" height="610" role="img" aria-label="Anatomy of a ghost: five layers from the React interface down to Gemma 3 on Ollama">
+<defs>
+<linearGradient id="wax" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#7d6847"/><stop offset=".32" stop-color="#f1e3c3"/><stop offset=".62" stop-color="#d8c197"/><stop offset="1" stop-color="#7a6644"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ffcf8a" stop-opacity=".55"/><stop offset=".35" stop-color="#BD8250" stop-opacity=".2"/><stop offset="1" stop-color="#BD8250" stop-opacity="0"/></radialGradient>
+<radialGradient id="flame" cx=".5" cy=".72" r=".6"><stop offset="0" stop-color="#fff8e0"/><stop offset=".3" stop-color="#ffd883"/><stop offset=".68" stop-color="#f0963c"/><stop offset="1" stop-color="#c85a28" stop-opacity="0"/></radialGradient>
+
+<linearGradient id="top" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a2a1a"/><stop offset="1" stop-color="#1b130d"/></linearGradient>
+<linearGradient id="topHot" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8a5a2c"/><stop offset="1" stop-color="#3a2210"/></linearGradient>
+<radialGradient id="bgw" cx=".25" cy=".5" r=".9"><stop offset="0" stop-color="#1c120b"/><stop offset="1" stop-color="#0B0908"/></radialGradient>
+<radialGradient id="spark"><stop offset="0" stop-color="#fff1cf"/><stop offset=".35" stop-color="#ffd27a" stop-opacity=".6"/><stop offset="1" stop-color="#ffd27a" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="610" rx="14" fill="url(#bgw)"/><rect x=".5" y=".5" width="1199" height="609" rx="14" fill="none" stroke="#D0A46F" stroke-opacity=".28"/>
+<g font-family="'IM Fell English','Cormorant Garamond','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif"><text x="560" y="56" font-size="13" letter-spacing="5" fill="#D0A46F">ANATOMY OF A GHOST</text><text x="560" y="82" font-size="16" font-style="italic" fill="#897A68">Five layers between your question and the voice that answers.</text></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="6.4s" begin="-3.6s" repeatCount="indefinite"/>
+<ellipse cx="290" cy="592" rx="230" ry="46" fill="url(#glow)"><animate attributeName="opacity" values=".6;1;.6" dur="3s" repeatCount="indefinite"/></ellipse>
+<polygon points="120,518 290,568 290,584 120,534" fill="#150f0a" stroke="#D0A46F" stroke-opacity=".55" stroke-linejoin="round"/>
+<polygon points="290,568 460,518 460,534 290,584" fill="#0d0907" stroke="#D0A46F" stroke-opacity=".55" stroke-linejoin="round"/>
+<polygon points="290,468 460,518 290,568 120,518" fill="url(#topHot)" stroke="#D0A46F" stroke-opacity=".95" stroke-linejoin="round"/>
+<polygon points="290,479.0 422.6,518 290,557.0 157.4,518" fill="none" stroke="#D0A46F" stroke-opacity=".3"/>
+<g transform="translate(290.0 526.0)"><circle cx="0" cy="-17.0" r="56.0" fill="url(#glow)"><animate attributeName="opacity" values=".8;1;.7;.95;.8" dur="2.70s" begin="-0.40s" repeatCount="indefinite"/></circle><g transform="scale(0.85)"><g><animateTransform attributeName="transform" type="skewX" values="0;4;-3;2;0" dur="3.00s" begin="-0.40s" repeatCount="indefinite"/><g><animateTransform attributeName="transform" type="scale" values="1 1;1.06 .93;.96 1.07;1.03 .97;1 1" dur="2.10s" begin="-0.40s" repeatCount="indefinite"/><path d="M0,-46 C9,-30 11,-14 0,0 C-11,-14 -9,-30 0,-46Z" fill="url(#flame)"/></g></g></g></g>
+</g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5.9s" begin="-2.7s" repeatCount="indefinite"/>
+<polygon points="120,422 290,472 290,488 120,438" fill="#150f0a" stroke="#D0A46F" stroke-opacity=".55" stroke-linejoin="round"/>
+<polygon points="290,472 460,422 460,438 290,488" fill="#0d0907" stroke="#D0A46F" stroke-opacity=".55" stroke-linejoin="round"/>
+<polygon points="290,372 460,422 290,472 120,422" fill="url(#top)" stroke="#D0A46F" stroke-opacity=".95" stroke-linejoin="round"/>
+<polygon points="290,383.0 422.6,422 290,461.0 157.4,422" fill="none" stroke="#D0A46F" stroke-opacity=".3"/>
+</g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="5.3s" begin="-1.8s" repeatCount="indefinite"/>
+<polygon points="120,326 290,376 290,392 120,342" fill="#150f0a" stroke="#D0A46F" stroke-opacity=".55" stroke-linejoin="round"/>
+<polygon points="290,376 460,326 460,342 290,392" fill="#0d0907" stroke="#D0A46F" stroke-opacity=".55" stroke-linejoin="round"/>
+<polygon points="290,276 460,326 290,376 120,326" fill="url(#top)" stroke="#D0A46F" stroke-opacity=".95" stroke-linejoin="round"/>
+<polygon points="290,287.0 422.6,326 290,365.0 157.4,326" fill="none" stroke="#D0A46F" stroke-opacity=".3"/>
+</g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.8s" begin="-0.9s" repeatCount="indefinite"/>
+<polygon points="120,230 290,280 290,296 120,246" fill="#150f0a" stroke="#D0A46F" stroke-opacity=".55" stroke-linejoin="round"/>
+<polygon points="290,280 460,230 460,246 290,296" fill="#0d0907" stroke="#D0A46F" stroke-opacity=".55" stroke-linejoin="round"/>
+<polygon points="290,180 460,230 290,280 120,230" fill="url(#top)" stroke="#D0A46F" stroke-opacity=".95" stroke-linejoin="round"/>
+<polygon points="290,191.0 422.6,230 290,269.0 157.4,230" fill="none" stroke="#D0A46F" stroke-opacity=".3"/>
+</g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="4.2s" begin="-0.0s" repeatCount="indefinite"/>
+<polygon points="120,134 290,184 290,200 120,150" fill="#150f0a" stroke="#D0A46F" stroke-opacity=".55" stroke-linejoin="round"/>
+<polygon points="290,184 460,134 460,150 290,200" fill="#0d0907" stroke="#D0A46F" stroke-opacity=".55" stroke-linejoin="round"/>
+<polygon points="290,84 460,134 290,184 120,134" fill="url(#top)" stroke="#D0A46F" stroke-opacity=".95" stroke-linejoin="round"/>
+<polygon points="290,95.0 422.6,134 290,173.0 157.4,134" fill="none" stroke="#D0A46F" stroke-opacity=".3"/>
+</g>
+<path d="M470,142 H520" stroke="#D0A46F" stroke-opacity=".4" stroke-dasharray="2 6"/><circle cx="470" cy="142" r="3" fill="#D0A46F"/>
+<g font-family="'IM Fell English','Cormorant Garamond','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif"><text x="560" y="124" font-size="13" letter-spacing="5" fill="#D0A46F">I · INTERFACE</text><text x="560" y="150" font-size="22" fill="#E0C69F">React 18 · Vite 6 · GSAP 3.13 · Lucide</text><text x="560" y="174" font-size="15" font-style="italic" fill="#897A68">Candlelight, dust, and the Ambience + SFX sliders.</text></g>
+<path d="M470,238 H520" stroke="#D0A46F" stroke-opacity=".4" stroke-dasharray="2 6"/><circle cx="470" cy="238" r="3" fill="#D0A46F"/>
+<g font-family="'IM Fell English','Cormorant Garamond','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif"><text x="560" y="220" font-size="13" letter-spacing="5" fill="#D0A46F">II · API</text><text x="560" y="246" font-size="22" fill="#E0C69F">FastAPI · Server-Sent Events</text><text x="560" y="270" font-size="15" font-style="italic" fill="#897A68">Streams every reply word by word.</text></g>
+<path d="M470,334 H520" stroke="#D0A46F" stroke-opacity=".4" stroke-dasharray="2 6"/><circle cx="470" cy="334" r="3" fill="#D0A46F"/>
+<g font-family="'IM Fell English','Cormorant Garamond','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif"><text x="560" y="316" font-size="13" letter-spacing="5" fill="#D0A46F">III · MEMORY</text><text x="560" y="342" font-size="22" fill="#E0C69F">SQLAlchemy 2 · Alembic · SQLite / PostgreSQL</text><text x="560" y="366" font-size="15" font-style="italic" fill="#897A68">Souls, conversations, and the evidence behind them.</text></g>
+<path d="M470,430 H520" stroke="#D0A46F" stroke-opacity=".4" stroke-dasharray="2 6"/><circle cx="470" cy="430" r="3" fill="#D0A46F"/>
+<g font-family="'IM Fell English','Cormorant Garamond','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif"><text x="560" y="412" font-size="13" letter-spacing="5" fill="#D0A46F">IV · EVIDENCE</text><text x="560" y="438" font-size="22" fill="#E0C69F">Brave Search API</text><text x="560" y="462" font-size="15" font-style="italic" fill="#897A68">Who is this? Are they gone? Fail closed.</text></g>
+<path d="M470,526 H520" stroke="#D0A46F" stroke-opacity=".4" stroke-dasharray="2 6"/><circle cx="470" cy="526" r="3" fill="#D0A46F"/>
+<g font-family="'IM Fell English','Cormorant Garamond','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif"><text x="560" y="508" font-size="13" letter-spacing="5" fill="#D0A46F">V · MIND</text><text x="560" y="534" font-size="22" fill="#E0C69F">Ollama · Gemma 3 · 4B / 12B / 27B</text><text x="560" y="558" font-size="15" font-style="italic" fill="#897A68">Local, or a Kaggle GPU behind a token-gated tunnel.</text></g>
+<circle r="16" cx="290" fill="url(#spark)"><animate attributeName="cy" values="134;230;326;422;518;518" keyTimes="0;.2;.4;.6;.8;1" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;1;1;0" keyTimes="0;.05;.4;.8;.95;1" dur="6s" repeatCount="indefinite"/></circle>
+</svg>

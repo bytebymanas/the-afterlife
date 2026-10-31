@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 64" width="1200" height="64" role="img" aria-label="Souls in the archive: Nikola Tesla, Mary Shelley, Om Puri, Albert Einstein, Kalidasa, Marie Curie">
+<defs><linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".12" stop-color="#fff"/><stop offset=".88" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="m"><rect width="1200" height="64" fill="url(#fade)"/></mask></defs>
+<rect width="1200" height="64" rx="10" fill="#0B0908"/>
+<path d="M0,.5 H1200 M0,63.5 H1200" stroke="#D0A46F" stroke-opacity=".3"/>
+<g mask="url(#m)" font-family="'IM Fell English','Cormorant Garamond','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif" font-size="17" fill="#C6A77E"><g>
+<animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="44s" repeatCount="indefinite"/>
+<text x="0" y="39" textLength="1200" lengthAdjust="spacing">NIKOLA TESLA   •   MARY SHELLEY   •   OM PURI   •   ALBERT EINSTEIN   •   KĀLIDĀSA   •   MARIE CURIE   •   </text>
+<text x="1200" y="39" textLength="1200" lengthAdjust="spacing">NIKOLA TESLA   •   MARY SHELLEY   •   OM PURI   •   ALBERT EINSTEIN   •   KĀLIDĀSA   •   MARIE CURIE   •   </text>
+</g></g></svg>

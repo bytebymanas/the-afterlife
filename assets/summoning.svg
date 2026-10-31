@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 470" width="1200" height="470" role="img" aria-label="The summoning ritual: a name is checked for identity and life status. Deceased becomes a soul, alive is refused, uncertain is not guessed.">
+<defs>
+<linearGradient id="wax" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#7d6847"/><stop offset=".32" stop-color="#f1e3c3"/><stop offset=".62" stop-color="#d8c197"/><stop offset="1" stop-color="#7a6644"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ffcf8a" stop-opacity=".55"/><stop offset=".35" stop-color="#BD8250" stop-opacity=".2"/><stop offset="1" stop-color="#BD8250" stop-opacity="0"/></radialGradient>
+<radialGradient id="flame" cx=".5" cy=".72" r=".6"><stop offset="0" stop-color="#fff8e0"/><stop offset=".3" stop-color="#ffd883"/><stop offset=".68" stop-color="#f0963c"/><stop offset="1" stop-color="#c85a28" stop-opacity="0"/></radialGradient>
+
+<radialGradient id="gG" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#86A576" stop-opacity=".35"/><stop offset="1" stop-color="#86A576" stop-opacity="0"/></radialGradient>
+<radialGradient id="gR" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#B5483A" stop-opacity=".35"/><stop offset="1" stop-color="#B5483A" stop-opacity="0"/></radialGradient>
+<radialGradient id="bgw" cx=".3" cy=".5" r=".8"><stop offset="0" stop-color="#1c120b"/><stop offset="1" stop-color="#0B0908"/></radialGradient>
+</defs>
+<rect width="1200" height="470" rx="14" fill="url(#bgw)"/>
+<rect x=".5" y=".5" width="1199" height="469" rx="14" fill="none" stroke="#D0A46F" stroke-opacity=".28"/>
+<g font-family="'IM Fell English','Cormorant Garamond','Palatino Linotype','Book Antiqua',Palatino,Georgia,serif">
+<text x="48" y="48" font-size="13" letter-spacing="5" fill="#D0A46F">THE SUMMONING</text>
+<text x="48" y="72" font-size="16" font-style="italic" fill="#897A68">Who is this? Are they gone? The archive does not guess.</text>
+<text x="48" y="182" font-size="11" letter-spacing="4" fill="#897A68">YOU TYPE A NAME</text>
+<rect x="48" y="196" width="220" height="64" rx="32" fill="#100D0B" stroke="#D0A46F" stroke-opacity=".7"/>
+<text x="158" y="236" font-size="21" font-style="italic" fill="#E0C69F" text-anchor="middle">“Ada Lovelace”</text>
+<path d="M268,228 H330" stroke="#D0A46F" stroke-width="1.6" stroke-dasharray="5 7" fill="none"><animate attributeName="stroke-dashoffset" values="0;-24" dur="1.1s" repeatCount="indefinite"/></path>
+<rect x="330" y="170" width="214" height="116" rx="14" fill="#100D0B" stroke="#D0A46F" stroke-opacity=".7"/>
+<circle cx="437" cy="228" r="66" fill="none" stroke="#D0A46F" stroke-opacity=".25" stroke-dasharray="3 9"><animateTransform attributeName="transform" type="rotate" from="0 437 228" to="360 437 228" dur="30s" repeatCount="indefinite"/></circle>
+<text x="437" y="198" font-size="11" letter-spacing="4" fill="#D0A46F" text-anchor="middle">THE ARCHIVE ASKS</text>
+<text x="437" y="228" font-size="21" font-style="italic" fill="#E0C69F" text-anchor="middle">Who is this?</text>
+<text x="437" y="256" font-size="21" font-style="italic" fill="#E0C69F" text-anchor="middle">Are they gone?</text>
+<text x="437" y="312" font-size="12" letter-spacing="2" fill="#897A68" text-anchor="middle">BRAVE SEARCH · INDEPENDENT SOURCES</text>
+<path d="M544,228 C600,228 590,108 650,108" fill="none" stroke="#86A576" stroke-width="1.8" stroke-opacity=".9" stroke-dasharray="5 7"><animate attributeName="stroke-dashoffset" values="0;-24" dur="1.10s" repeatCount="indefinite"/></path>
+<rect x="650" y="60" width="502" height="102" rx="12" fill="#100D0B" stroke="#86A576" stroke-opacity=".75"/>
+<circle cx="1090" cy="108" r="62" fill="url(#gG)"/>
+<text x="674" y="86" font-size="11" letter-spacing="4" fill="#86A576">DECEASED</text>
+<text x="674" y="112" font-size="24" fill="#E0C69F">A soul is raised</text>
+<text x="674" y="132" font-size="14.5" font-style="italic" fill="#897A68">Gemma writes a persona prompt (150 words max),</text>
+<text x="674" y="149" font-size="14.5" font-style="italic" fill="#897A68">the JSON is validated, the soul is saved.</text>
+<path d="M544,228 C600,228 590,238 650,238" fill="none" stroke="#B5483A" stroke-width="1.8" stroke-opacity=".9" stroke-dasharray="5 7"><animate attributeName="stroke-dashoffset" values="0;-24" dur="1.25s" repeatCount="indefinite"/></path>
+<rect x="650" y="190" width="502" height="102" rx="12" fill="#100D0B" stroke="#B5483A" stroke-opacity=".75"/>
+<circle cx="1090" cy="238" r="62" fill="url(#gR)"/>
+<text x="674" y="216" font-size="11" letter-spacing="4" fill="#B5483A">STILL ALIVE</text>
+<text x="674" y="242" font-size="24" fill="#E0C69F">Summoning refused</text>
+<text x="674" y="262" font-size="14.5" font-style="italic" fill="#897A68">No impersonating the living.</text>
+<text x="674" y="279" font-size="14.5" font-style="italic" fill="#897A68">The archive keeps its doors shut.</text>
+<path d="M544,228 C600,228 590,368 650,368" fill="none" stroke="#897A68" stroke-width="1.8" stroke-opacity=".9" stroke-dasharray="5 7"><animate attributeName="stroke-dashoffset" values="0;-24" dur="1.40s" repeatCount="indefinite"/></path>
+<rect x="650" y="320" width="502" height="102" rx="12" fill="#100D0B" stroke="#897A68" stroke-opacity=".75"/>
+<text x="674" y="346" font-size="11" letter-spacing="4" fill="#897A68">AMBIGUOUS · UNKNOWN</text>
+<text x="674" y="372" font-size="24" fill="#E0C69F">The archive does not guess</text>
+<text x="674" y="392" font-size="14.5" font-style="italic" fill="#897A68">Clarify or retry. Thin or conflicting</text>
+<text x="674" y="409" font-size="14.5" font-style="italic" fill="#897A68">evidence means no persona.</text>
+<g transform="translate(1096.0 140.0)"><ellipse cx="0" cy="1" rx="14.6" ry="4.5" fill="#000" opacity=".5"/><rect x="-8.1" y="-54.0" width="16.2" height="54.0" rx="1.4" fill="url(#wax)"/><ellipse cx="0" cy="-54.0" rx="8.1" ry="2.9" fill="#f6ead0"/><path d="M0,-54.0 q0.5,-4.5 0,-7.2" stroke="#2a1d12" stroke-width="1.1" fill="none"/><g transform="translate(0.0 -58.5)"><circle cx="0" cy="-18.0" r="63.0" fill="url(#glow)"><animate attributeName="opacity" values=".8;1;.7;.95;.8" dur="2.80s" begin="-0.50s" repeatCount="indefinite"/></circle><g transform="scale(0.90)"><g><animateTransform attributeName="transform" type="skewX" values="0;4;-3;2;0" dur="3.10s" begin="-0.50s" repeatCount="indefinite"/><g><animateTransform attributeName="transform" type="scale" values="1 1;1.06 .93;.96 1.07;1.03 .97;1 1" dur="2.20s" begin="-0.50s" repeatCount="indefinite"/><path d="M0,-46 C9,-30 11,-14 0,0 C-11,-14 -9,-30 0,-46Z" fill="url(#flame)"/></g></g></g></g></g>
+<g transform="translate(1090 238)" stroke="#B5483A" stroke-width="2.4" stroke-linecap="round" fill="none"><circle r="22" stroke-opacity=".7"/><path d="M-9,-9 L9,9 M9,-9 L-9,9"><animate attributeName="opacity" values="1;.4;1" dur="2.2s" repeatCount="indefinite"/></path></g>
+<g transform="translate(1090 368)" stroke="#897A68" stroke-width="2" stroke-linecap="round" fill="none"><path d="M-24,-10 q6,-8 12,0 t12,0 t12,0 t12,0"><animate attributeName="d" dur="3s" repeatCount="indefinite" values="M-24,-10 q6,-8 12,0 t12,0 t12,0 t12,0;M-24,-10 q6,8 12,0 t12,0 t12,0 t12,0;M-24,-10 q6,-8 12,0 t12,0 t12,0 t12,0"/></path><path d="M-24,2 q6,-8 12,0 t12,0 t12,0 t12,0" opacity=".7"><animate attributeName="d" dur="3.6s" repeatCount="indefinite" values="M-24,2 q6,8 12,0 t12,0 t12,0 t12,0;M-24,2 q6,-8 12,0 t12,0 t12,0 t12,0;M-24,2 q6,8 12,0 t12,0 t12,0 t12,0"/></path><path d="M-24,14 q6,-8 12,0 t12,0 t12,0 t12,0" opacity=".45"/></g>
+<text x="600" y="452" font-size="14" font-style="italic" fill="#897A68" text-anchor="middle">Search results are untrusted evidence. When in doubt, the answer is no.</text>
+</g>
+<circle r="4.5" fill="#fff1cf"><animateMotion dur="3.4s" repeatCount="indefinite" path="M268,228 H330 M330,228 H544 C600,228 590,108 650,108"/><animate attributeName="opacity" values="0;1;1;0" dur="3.4s" repeatCount="indefinite"/></circle>
+</svg>
