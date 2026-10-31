@@ -1,0 +1,26 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.private/
+*.pem
+*.key
+
+# Databases and local runtime state
+backend/*.db
+backend/*.sqlite
+backend/*.sqlite3
+*.log
+
+# Dependencies and generated files
+node_modules/
+dist/
+coverage/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Operating-system metadata
+.DS_Store
